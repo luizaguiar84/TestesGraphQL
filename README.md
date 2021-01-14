@@ -1,12 +1,11 @@
 # TestesGraphQL
 Api para testar uso de GraphQL no C# .Net Core 3.1
 
-( chamar no endpoint /playground ) 
+(chamar no endpoint /playground) 
 
 Chamada de Teste:
-
-{
-  customer{
+{ 
+  customer
     title
     firstName
     lastName
@@ -18,7 +17,7 @@ Chamada de Teste:
         productId
         product{
           name
-        }        
+        }
       }
     }
   }
