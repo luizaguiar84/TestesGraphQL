@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TestesGraphQL.QueryTypes
+namespace TestesGraphQL.Models
 {
     public class Item
     {

@@ -7,7 +7,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using TestesGraphQL.DataLoaders;
 
-namespace TestesGraphQL.QueryTypes
+namespace TestesGraphQL.Models
 {
     public class ItemType : ObjectType<Item>
     {

@@ -6,6 +6,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using TestesGraphQL.DataLoaders;
 using TestesGraphQL.Interfaces;
+using TestesGraphQL.Models;
 using TestesGraphQL.QueryTypes;
 using TestesGraphQL.Services;
 

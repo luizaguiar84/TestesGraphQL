@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace TestesGraphQL.QueryTypes
+namespace TestesGraphQL.Models
 {
     public class Order
     {

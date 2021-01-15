@@ -1,4 +1,4 @@
-﻿namespace TestesGraphQL.QueryTypes
+﻿namespace TestesGraphQL.Models
 {
     public class Product
     {

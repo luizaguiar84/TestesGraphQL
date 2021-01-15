@@ -5,12 +5,10 @@ using System.Threading.Tasks;
 
 namespace TestesGraphQL.Models
 {
-    public class Customer
+    public class Teste
     {
-        public Guid UserId { get; set; }
-        public string Title { get; set; }
-        public string LastName { get; set; }
-        public string FirstName { get; set; }
+        public string Inicio { get;  set; }
+        public string Fim { get;  set; }
 
         public ICollection<Order> Orders { get; set; } = new List<Order>();
     }

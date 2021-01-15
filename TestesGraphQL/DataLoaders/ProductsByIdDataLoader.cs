@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 using HotChocolate.DataLoader;
+using TestesGraphQL.Models;
 using TestesGraphQL.QueryTypes;
 
 namespace TestesGraphQL.DataLoaders
